@@ -56,6 +56,9 @@ I'm interested in:
 - sequential behaviours modeling and understanding
 
 
+- human-computer interaction (HCI)
+
+  
 - large language model (LLM)
 
 
