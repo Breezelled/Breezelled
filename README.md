@@ -52,12 +52,6 @@ I'm interested in:
 
 - high concurrency, high performance, and high availability system architecture
 
-
-- sequential behaviours modeling and understanding
-
-
-- human-computer interaction (HCI)
-
   
 - large language model (LLM)
 
@@ -68,10 +62,16 @@ I'm interested in:
 - user experience (UX)
 
 
+- ubiquitous computing
+
+
 - recommender system
 
 
 - distributed system
+
+
+- multi-modality
 
 
 - microservices
