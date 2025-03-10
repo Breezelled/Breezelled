@@ -18,30 +18,20 @@ Here are some ideas to get you started:
   
 
 I'm:  
- 
 
-- a student @ UNSW CSE with High Distinction WAM
+- a student @ CRUISE - UNSW
   
-
 - a competitive programming contestant
 
+- a collaborative communicator 
 
-- a friendly and reliable communicator  
-
-
-- a problem solver and decision maker
-  
-
-- an enthusiast of new technologies
-
+- a new technology enthusiast
 
 - a machine learning researcher
-  
 
 - a fullstack software engineer  
-  
 
-- a self-driven quick learner  
+- a self-motivated problem solver
   
   
 <br/>  
@@ -49,33 +39,21 @@ I'm:
 
 I'm interested in:
 
-
 - high concurrency, high performance, and high availability system architecture
-
   
 - large language model (LLM)
 
-
 - competitive programming
-
 
 - user experience (UX)
 
+- multi-modal learning
 
 - ubiquitous computing
 
-
 - recommender system
 
-
 - distributed system
-
-
-- multi-modality
-
-
-- microservices
-
 
 <br/>  
 
