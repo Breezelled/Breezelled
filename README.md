@@ -39,21 +39,23 @@ I'm:
 
 I'm interested in:
 
-- high concurrency, high performance, and high availability system architecture
-  
-- large language model (LLM)
-
-- competitive programming
-
-- user experience (UX)
-
 - multi-modal learning
-
-- ubiquitous computing
 
 - recommender system
 
+- personalized behavior modeling
+
+- large language model (LLM)
+
+- ubiquitous computing
+
+- user experience (UX)
+  
 - distributed system
+
+- high concurrency, high performance, and high availability system architecture
+
+- competitive programming
 
 <br/>  
 
