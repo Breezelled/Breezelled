@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 I'm:  
 
 - a student @ CRUISE - UNSW
-  
-- a competitive programming contestant
 
 - a collaborative communicator 
 
 - a new technology enthusiast
 
+- a self-motivated problem solver
+
 - a machine learning researcher
 
 - a fullstack software engineer  
 
-- a self-motivated problem solver
+- a competitive programming contestant
   
   
 <br/>  
