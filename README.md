@@ -41,13 +41,13 @@ I'm interested in:
 
 - multi-modal learning
 
-- recommender system
-
 - personalized behavior modeling
 
 - large language model (LLM)
 
 - ubiquitous computing
+
+- recommender system
 
 - user experience (UX)
   
